@@ -4,7 +4,7 @@
 *******************************************************************************/
 
 #include <stdio.h>
-#include <math.h> /* Biblioteca com funções matemática - neste caso usaremos potenciação ou POW() em C - abreviação de power */
+#include <math.h> /* Biblioteca com funções matemáticas - neste caso usaremos potenciação ou POW() em C - abreviação de power */
 
 int main()
 {
